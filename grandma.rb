@@ -1,6 +1,6 @@
 
 def speak_to_grandma
-  
+  speak = get
 end
 
 # Whatever you say to grandma, she should respond with
